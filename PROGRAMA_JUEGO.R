@@ -741,3 +741,5 @@ library(prettydoc)
 
 cat("Una vez finalizada la instalacion, puedes acceder a las instrucciones y estas listo para inciciar !\n")
 adivina_microorganismos(microorganismos)
+
+#hola buenas
