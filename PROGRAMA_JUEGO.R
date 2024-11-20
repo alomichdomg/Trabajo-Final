@@ -1,4 +1,4 @@
-#####Juego y funciones #####
+#####Juego y funciones ##### #)
 ########################################
 #PARA REINICIAR EL JUEGO
 reinicio_juego <- function() {
