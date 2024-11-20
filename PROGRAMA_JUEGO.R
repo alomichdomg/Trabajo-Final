@@ -1,5 +1,5 @@
-#####Juego y funciones #####
-#########################################
+#####Juego y funciones ##### #)
+########################################
 #PARA REINICIAR EL JUEGO
 reinicio_juego <- function() {
   readline(prompt = "¿Quieres intentarlo de nuevo? (si/no): ") -> respuesta
@@ -741,3 +741,5 @@ library(prettydoc)
 
 cat("Una vez finalizada la instalacion, puedes acceder a las instrucciones y estas listo para inciciar !\n")
 adivina_microorganismos(microorganismos)
+
+
