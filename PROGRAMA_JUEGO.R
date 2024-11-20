@@ -12,7 +12,7 @@ reinicio_juego <- function() {
     cat("¡Gracias por jugar! Adiós.\n")
   }
 }
-#########################################
+##########################################
 ADN_analisis<- function( ){
   library(Biostrings)
   cat("¡Ahora podras conocer datos sobre la secuencia de tu microorganismo!\n")
